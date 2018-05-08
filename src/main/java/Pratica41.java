@@ -11,7 +11,7 @@ import utfpr.ct.dainf.if62c.pratica.Elipse;
 
 /**
  *
- * @author askoda
+ * @author Chin
  */
 public class Pratica41 {
     public static void main(String[] args) {
